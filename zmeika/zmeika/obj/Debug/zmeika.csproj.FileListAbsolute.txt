@@ -1,0 +1,11 @@
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\bin\Debug\zmeika.exe.config
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\bin\Debug\zmeika.exe
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\bin\Debug\zmeika.pdb
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.Form1.resources
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.Properties.Resources.resources
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.exe
+C:\Users\user.COMP-02\Desktop\RunningGit\zmeika\zmeika\obj\Debug\zmeika.pdb
